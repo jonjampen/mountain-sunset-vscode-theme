@@ -2,7 +2,51 @@
 	"name": "Mountain Sunset",
 	"type": "dark",
 	"colors": {
+		"focusBorder": "#393939",
+		"foreground": "#ffffff",
+		"disabledForeground": "#bbbbbb",
+		"widget.border": "#393939",
+		// "widget.shadow": "",
+		"selection.background": "#fb860039",
+		"descriptionForeground": "#ffffff",
+		"errorForeground": "#ffffff",
+		"icon.foreground": "#FB8500",
+		// "sash.hoverBorder": "",
+		// "window.activeBorder": "#ff0000",
+		// "window.inactiveBorder": "#ff0000",
+		// "window.inactiveBorder": "#ff0000"
+
+		"toolbar.hoverBackground": "#252525",
+		// "toolbar.hoverOutline": 
+		// "toolbar.activeBackground": "#ff0000"
+		"button.background": "#FB8500",
+		"button.foreground": "#ffffff",
+		"button.secondaryForeground": "#ffffff",
+		"button.secondaryBackground": "#07405d",
+		"checkbox.background": "#393939",
+		"checkbox.foreground": "#FB8500",
+		"checkbox.border": "#393939",
+
+		"dropdown.background": "#252525",
+		"dropdown.listBackground": "#252525",
+		"dropdown.border": "#252525",
+		"dropdown.foreground": "#ffffff",
 		
+
+		"editor.background": "#202020",
+		"editorLineNumber.foreground": "#07405d",
+		"editorLineNumber.activeForeground": "#FB8500",
+		"editorCursor.background": "#ffffff",
+		"editorCursor.foreground": "#FB8500",
+		"editor.selectionBackground": "#fb860039",
+		"editor.selectionForeground": "#ffffff",
+
+		"editor.selectionHighlightBackground": "#07405d53",
+		"editor.wordHighlightBackground": "#fb860039",
+		"editor.wordHighlightTextBackground": "#07405d53",
+		"editor.findMatchBackground": "#fb860039",
+		"editor.findMatchHighlightBackground": "#07405d53",
+		"searchEditor.findMatchBackground": "#07405d53"
 	},
 	"tokenColors": [
 		{
