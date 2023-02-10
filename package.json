@@ -1,6 +1,6 @@
 {
-  "name": "dream-code",
-  "displayName": "Dream Code",
+  "name": "mountain-sunset",
+  "displayName": "Mountain Sunset",
   "description": "",
   "version": "0.0.1",
   "engines": {
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Dream Code",
+        "label": "Mountain Sunset",
         "uiTheme": "vs-dark",
-        "path": "./themes/Dream Code-color-theme.json"
+        "path": "./themes/Mountain Sunset-color-theme.json"
       }
     ]
   }

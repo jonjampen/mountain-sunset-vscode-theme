@@ -46,7 +46,7 @@
 		"editor.wordHighlightTextBackground": "#07405d53",
 		"editor.findMatchBackground": "#fb860039",
 		"editor.findMatchHighlightBackground": "#07405d53",
-		"searchEditor.findMatchBackground": "#07405d53"
+		"searchEditor.findMatchBackground": "#07405d53",
 	},
 	"tokenColors": [
 		{
