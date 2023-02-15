@@ -1,8 +1,25 @@
 {
   "name": "mountain-sunset",
   "displayName": "Mountain Sunset",
-  "description": "",
+  "description": "A beautiful dark theme for VS Code created by Jon Jampen",
   "version": "0.0.1",
+  "publisher": "JonJampen",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jonjampen/mountain-sunset-vscode-theme"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "Jon Jampen",
+    "mountain",
+    "sunset",
+    "mountain sunset",
+    "sunrise",
+    "orange",
+    "blue",
+    "yellow"
+  ],
   "engines": {
     "vscode": "^1.75.0"
   },
