@@ -4,19 +4,59 @@
 
   // UI Colors
   "colors": {
-	// Base
+	  // Base
     //"contrastBorder": "#07405dff",
     "focusBorder": "#fb8500ff",
     "foreground": "#ccccccff",
     "disabledForeground": "#7a7a7aff",
     "widget.shadow": "#fb850039",
     "selection.background": "#fb850039",
-    "errorForeground": "#EF5350",
-	"icon.foreground": "#fb8500ff",
+    "errorForeground": "#e55b59",
+    "icon.foreground": "#fb8500ff",
+
+    "toolbar.hoverBackground": "#252526ff",	
+    "toolbar.activeBackground": "#252526ff",	
+
     "button.background": "#07405dff",
     "button.foreground": "#ccccccff",
     "button.hoverBackground": "#0c5d86ff",
 
-    
+    "dropdown.background": "#303030ff",
+    "dropdown.foreground": "#ccccccff",
+    "input.background": "#303030ff",
+    "input.border": "#303030ff",
+    "input.foreground": "#ccccccff",
+    "input.placeholderForeground": "#7a7a7aff",
+    "inputOption.activeBorder": "#fb850039",
+    "inputOption.activeBackground": "#fb850039",
+    "inputValidation.errorBackground": "#d00502f2",
+    "inputValidation.errorBorder": "#e55b59",
+    "inputValidation.infoBackground": "#07405dff",
+    "inputValidation.infoBorder": "#0c5d86ff",
+    "inputValidation.warningBackground": "#fb850039",
+    "inputValidation.warningBorder": "#fb8500ff",
+
+    // Scroll
+    "scrollbar.shadow": "#fb850039",
+    "scrollbarSlider.activeBackground": "#07405dff",
+    "scrollbarSlider.background": "#07405dff",
+    "scrollbarSlider.hoverBackground": "#07405dff",
+    "progressBar.background": "#fb8500ff",
+
+    "badge.background": "#fb8500ff",
+    "badge.foreground": "#202020ff",
+
+    // Activity Bar
+    "activityBar.background": "#303030ff",
+    "activityBar.foreground": "#ccccccff",
+    "activityBarBadge.background": "#fb8500ff",
+    "activityBarBadge.foreground": "#202020ff",
+
+    // Side Bar
+    "sideBar.background": "#252526ff",
+    "sideBar.foreground": "#ccccccff",
+    "sideBarTitle.foreground": "#fb8500ff",
+    "sideBarSectionHeader.background": "#252526ff",
+    "sideBarSectionHeader.foreground": "#0c5d86ff",
   },
 }
