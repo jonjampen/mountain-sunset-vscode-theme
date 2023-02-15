@@ -3,14 +3,14 @@ Mountain Sunset is a dark theme for Visual Studio Code created by Jon Jampen.
 
 ## Installation
 1. Install and open VS Code
-1. Press `ctrl/cmd` + `Shift` + `P`
 1. Open the Extensions
 1. Search for "**Mountain Sunset**"
 1. Install it
+1. Click on "Set color theme"
 
 Enjoy!
 
----
+## Contribution
 ### Colors
 (Note: Colors are not displayed in GitHub's Markdown viewer.)
 #### UI
