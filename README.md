@@ -21,7 +21,7 @@ Enjoy!
 | <div style="background-color: #07405dff; width: 20px; height: 20px"></div> | #07405dff | Blue Dark |
 | <div style="background-color: #07405d39; width: 20px; height: 20px"></div> | #07405d39 | Blue Dark Semitransparent |
 | <div style="background-color: #07405dff; width: 20px; height: 20px"></div> | #0c5d86ff | Blue Light |
-| <div style="background-color: #202020ff; width: 20px; height: 20px"></div> | #202020ff | Dark 1 - Menu & Activity Bar |
+| <div style="background-color: #303030ff; width: 20px; height: 20px"></div> | #303030ff | Dark 1 - Menu & Activity Bar |
 | <div style="background-color: #252526ff; width: 20px; height: 20px"></div> | #252526ff | Dark 2 - Tabs & Sidebar |
 | <div style="background-color: #202020ff; width: 20px; height: 20px"></div> | #202020ff | Dark 3 - Editor |
 | <div style="background-color: #ccccccff; width: 20px; height: 20px"></div> | #ccccccff | White Font (Active) |

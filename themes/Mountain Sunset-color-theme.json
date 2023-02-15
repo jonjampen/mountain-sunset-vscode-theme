@@ -58,5 +58,27 @@
     "sideBarTitle.foreground": "#fb8500ff",
     "sideBarSectionHeader.background": "#252526ff",
     "sideBarSectionHeader.foreground": "#0c5d86ff",
+
+    // Editor
+    "editorGroup.emptyBackground": "#202020ff",
+    "editorGroup.dropBackground": "#fb850039",
+    "editorGroupHeader.noTabsBackground": "#252526ff",
+    "editorGroupHeader.tabsBackground": "#252526ff",
+   
+    "tab.activeBackground": "#202020ff",
+    "tab.activeForeground": "#ccccccff",
+    "tab.activeBorder": "#fb8500ff",
+    "tab.unfocusedActiveBorder": "#fb850039",
+
+    "editor.background": "#202020ff",
+    "editor.foreground": "#d6deeb",
+
+    "editorLineNumber.foreground": "#0c5d86ff",
+    "editorLineNumber.activeForeground": "#fb8500ff",
+    "editorCursor.foreground": "#fb8500ff",
+    "editorCursor.background": "#ccccccff",
+
+    "editor.selectionBackground": "#07405dff",
+    
   },
 }
