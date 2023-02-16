@@ -1,6 +1,8 @@
-var x, y, z;  // Declare 3 variables
-x = 5;
-y = 6;
+// Declare variables and constants
+var z;
+const x = 5;
+const y = 6;
+
 z = x + y;
 
 // function that does something
