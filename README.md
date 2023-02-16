@@ -26,6 +26,7 @@ Enjoy!
 | <div style="background-color: #202020ff; width: 20px; height: 20px"></div> | #202020ff | Dark 3 - Editor |
 | <div style="background-color: #ccccccff; width: 20px; height: 20px"></div> | #ccccccff | White Font (Active) |
 | <div style="background-color: #7a7a7aff; width: 20px; height: 20px"></div> | #7a7a7aff | Gray Font (Inactive) |
+| <div style="background-color: #666666ff; width: 20px; height: 20px"></div> | #666666ff | Dark Gray Font (Ignore) |
 | <div style="background-color: #e55b59; width: 20px; height: 20px"></div> | #e55b59 | Error |
 | <div style="background-color: #fb8500ff; width: 20px; height: 20px"></div> | #fb8500ff | Warning |
 | <div style="background-color: #8ccf40ff; width: 20px; height: 20px"></div> | #8ccf40ff | Success |
