@@ -34,5 +34,11 @@ Enjoy!
 #### Syntax Highlighting
 | Color | Hex | Description |
 | ----- | --- | ----------- |
-| <div style="color: #fb8500ff">Example</div> | #fb8500ff | Variable |
-| <div style="color: #e5c07bff">Example</div> | #e5c07bff | Number |
+| <div style="color: #ffb159">Example</div> | #ffb159 | Variable |
+| <div style="color: #b478db">Example</div> | #b478db | Keywords |
+| <div style="color: #f7716f">Example</div> | #f7716f | Numbers |
+| <div style="color: #ffd659">Example</div> | #ffd659 | Classes, Constants |
+| <div style="color: #59a2ff">Example</div> | #59a2ff | functions, methods |
+| <div style="color: #81c251">Example</div> | #81c251 | Strings |
+| <div style="color: #56b6c2">Example</div> | #56b6c2 | Operators, etc. |
+| <div style="color: #666666">Example</div> | #666666 | Comments |
