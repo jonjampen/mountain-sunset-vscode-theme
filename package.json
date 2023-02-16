@@ -20,6 +20,7 @@
     "blue",
     "yellow"
   ],
+  "icon": "assets/logo.png",
   "engines": {
     "vscode": "^1.75.0"
   },
