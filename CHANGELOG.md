@@ -8,5 +8,5 @@ All notable changes to the "Mountain Sunset" extension will be documented in thi
 <!-- ### [Added / Changed / Fixed / ...] -->
 
 
-## [v1.0.0] - 2023-02-15
+## [v1.0.0] - 2023-02-16
 First version. Added colors to UI and Syntax highlighting
