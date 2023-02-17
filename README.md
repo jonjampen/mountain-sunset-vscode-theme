@@ -13,7 +13,9 @@ Mountain Sunset is a dark theme for Visual Studio Code created by Jon Jampen.
 Enjoy!
 
 ## Contribution
-Please inform me about any issues on my [github repository](https://github.com/jonjampen/mountain-sunset-vscode-theme/issues) or submit a pull request. Feedback is always appreciated as well. Thanks!
+Please let me know what you think of this theme and what I could improve.
+
+Please inform me about any issues or submit a pull request on my [github repository](https://github.com/jonjampen/mountain-sunset-vscode-theme/issues). Thanks!
 ### Colors
 (Note: Colors are not displayed in some Markdown viewers.)
 #### UI
